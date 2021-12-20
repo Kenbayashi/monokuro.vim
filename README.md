@@ -2,7 +2,7 @@
 
 A colorscheme puts emphasis on readability.
 
-## Have been adapted to
+## Has been adapted to
 - Neovim built in lsp client
 - Treesitter
 - Defx.vim
