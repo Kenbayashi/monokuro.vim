@@ -2,7 +2,7 @@
 
 ![Sample image](image/sample.png)
 
-A colorscheme puts emphasis on readability.
+A colorscheme puts emphasis on readability.  
 monokuro.vim emphasizes what you really need to see.
 
 ## Has been adapted to
